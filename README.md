@@ -32,3 +32,4 @@ You can find the code used in the project [here](https://github.com/ayshashaban/
 -  **Download and install the Arduino IDE.**
 -  **Open the [code](https://github.com/ayshashaban/robotic-arm/blob/main/code.pm) file in the Arduino IDE.**
 -  **Connect your Arduino to your computer and upload the code.**
+-  **Open the appliication and connect with bluetooth module.**
