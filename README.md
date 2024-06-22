@@ -1,4 +1,4 @@
-# The Robotic Arm Control Project
+# Robotic Arm Control System Project
 
 This project is designed to control a robotic arm using a custom application.
 
