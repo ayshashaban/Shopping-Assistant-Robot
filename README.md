@@ -1,6 +1,6 @@
-# Robotic Arm Control System Project
+# Shopping Assistant Robot Project
 
-This project is designed to control a robotic arm using a custom application.
+This project is designed to control a robotic arm mounted on a mobile base by a costume application, and implemented motion algorithms to enable precise and smooth movements of the robotic arm for picking and placing items.
 
 ## Hardware Requirements
 
