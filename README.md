@@ -23,7 +23,7 @@ This project is designed to control a robotic arm mounted on a mobile base by a 
 
 You can find the circuit used in the project [here](https://github.com/ayshashaban/robotic-arm/blob/main/CIRCUITDAIGRAM%20ARM.png)
 
-## code
+## Code
 
 You can find the code used in the project [here](https://github.com/ayshashaban/robotic-arm/blob/main/code.pm)
 
